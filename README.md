@@ -1,5 +1,5 @@
 # Online-Store
-
+Pruebas A/B 
 ## Descripción del proyecto
 Soy analista en una gran tienda en línea. Junto con el departamento de marketing he recopilado una lista de hipótesis que pueden ayudar a aumentar los ingresos. 
 
